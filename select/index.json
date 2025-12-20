@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "アンダーキッズ",
+  "base_artist": "ツユ",
+  "createdAt": "2025-12-20T16:18:26.486492Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "アンダーキッズ",
+      "artist": "ツユ",
+      "has_synced": true,
+      "path": "select/01_アンダーキッズ_ツユ.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "アンダーキッズ",
+      "artist": "ツユ",
+      "has_synced": false,
+      "path": "select/pl_01_アンダーキッズ_ツユ.txt"
+    }
+  ]
+}
